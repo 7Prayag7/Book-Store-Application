@@ -1,5 +1,7 @@
 Book Management Project
+
 Project Overview
+
 This project is a comprehensive guide to building a full-stack application from scratch. The backend is developed using Node.js, Express.js, and MongoDB with Mongoose, while the frontend is created using React, Vite, and Tailwind CSS. The application covers various features such as creating, reading, updating, and deleting books, along with implementing a modern user interface and experience.
 
 Features
