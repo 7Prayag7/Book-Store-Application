@@ -10,6 +10,7 @@ Integrate MongoDB as the database using Mongoose.
 Implement CRUD operations for managing books.
 Refactor code using the Express Router for modularity.
 Configure CORS policy to handle cross-origin requests.
+
 Frontend:
 
 Create a React project with Vite and style it using Tailwind CSS.
@@ -22,10 +23,14 @@ Technologies Used
 Backend: Node.js, Express.js, MongoDB, Mongoose
 Frontend: React, Vite, Tailwind CSS
 Others: CORS, React Router DOM
+
 Getting Started
+
 Prerequisites
+
 Node.js and npm installed
 MongoDB installed and running
+
 Installation
 Clone the repository:
 bash
